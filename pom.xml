@@ -17,6 +17,34 @@
 
 	<name>plugins/Multi_Kymograph.jar</name>
 	<description></description>
+	<url>http://fiji.sc/Multi_Kymograph</url>
+	<inceptionYear>2004</inceptionYear>
+
+	<licenses>
+		<license>
+			<name>Simplified BSD License</name>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Jens Reitdorf</name>
+			<email>jens.rietdorf@fmi.ch</email>
+			<organization>FMI Basel</organization>
+			<organizationUrl>http://www.fmi.ch/</organizationUrl>
+			<roles>
+				<role>developer</role>
+			</roles>
+			<timezone>+1</timezone>
+		</developer>
+		<developer>
+			<name>Arne Seitz</name>
+			<email>seitz@embl.de</email>
+			<organization>EMBL Heidelberg</organization>
+			<organizationUrl>http://www.embl.de/</organizationUrl>
+		</developer>
+	</developers>
 
 	<scm>
 		<connection>scm:git:git://github.com/fiji/Multi_Kymograph</connection>
