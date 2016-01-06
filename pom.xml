@@ -19,7 +19,6 @@
 	<description></description>
 	<url>http://fiji.sc/Multi_Kymograph</url>
 	<inceptionYear>2004</inceptionYear>
-
 	<licenses>
 		<license>
 			<name>Simplified BSD License</name>
@@ -76,5 +75,4 @@
 			<artifactId>ij</artifactId>
 		</dependency>
 	</dependencies>
-
 </project>
