@@ -1,4 +1,4 @@
-package fiji.plugin.MultipleKymograph_;
+package sc.fiji.multiKymograph;
 
 
 import ij.IJ;
