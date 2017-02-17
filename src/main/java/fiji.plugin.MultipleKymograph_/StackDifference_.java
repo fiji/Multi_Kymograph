@@ -1,3 +1,6 @@
+
+package fiji.plugin.MultipleKymograph_;
+
 import ij.IJ;
 import ij.ImagePlus;
 import ij.WindowManager;
