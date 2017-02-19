@@ -21,7 +21,8 @@
 	<inceptionYear>2004</inceptionYear>
 	<licenses>
 		<license>
-			<name>Simplified BSD License</name>
+			<name>GNU General Public License v3+</name>
+			<url>http://www.gnu.org/licenses/gpl.html</url>
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
@@ -76,6 +77,11 @@
 		<system>Jenkins</system>
 		<url>http://jenkins.imagej.net/job/Multi_Kymograph/</url>
 	</ciManagement>
+
+	<properties>
+		<license.licenseName>gpl_v3</license.licenseName>
+		<license.copyrightOwners>Fiji development team</license.copyrightOwners>
+	</properties>
 
 	<repositories>
 		<!-- NB: for project parent -->
