@@ -83,8 +83,8 @@
 		<url>https://github.com/fiji/Multi_Kymograph/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/Multi_Kymograph/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/fiji/Multi_Kymograph</url>
 	</ciManagement>
 
 	<properties>
