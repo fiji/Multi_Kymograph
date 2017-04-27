@@ -31,14 +31,10 @@ import ij.plugin.PlugIn;
 
 import java.awt.image.ColorModel;
 
-/** Performs a walking average on a stack.
-
-
-Please sent comments to: Arne Seitz <seitz@embl.de>
-
-
-*/
-
+/**
+ * Performs a walking average on a stack.
+ * Please sent comments to: Arne Seitz (seitz@embl.de)
+ */
 public class WalkingAverage_ implements PlugIn {
 	
 	final String makroString=Macro.getOptions();
